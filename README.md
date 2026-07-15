@@ -2,8 +2,6 @@
 
 A Django REST Framework API that uses Claude (Anthropic) to classify submitted text as `safe`, `warning`, or `violation`, with per-user history, filtering, pagination, and a bulk submission endpoint.
 
-**Project Link:** [View Project](https://nextwork.ai/projects/c07fb476-bd7b-4f0e-a59c-319aa9a3a6d7)
-
 ---
 
 ## Tech Stack

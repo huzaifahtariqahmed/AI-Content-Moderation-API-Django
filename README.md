@@ -153,6 +153,8 @@ Returns `404` if the record doesn't belong to the authenticated user.
 
 ## Running Tests
 
+`moderation/tests.py` is currently just the default stub — the "End-to-end testing strategy" described below (multi-user, filtering, pagination, isolation) was verified manually via the Django shell/API client rather than as automated test cases. To add automated coverage:
+
 ```bash
 python manage.py test
 ```

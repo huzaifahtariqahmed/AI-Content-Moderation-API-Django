@@ -8,7 +8,7 @@
 
 ### Why this project matters
 
-I'm building... because it teaches me...Django + DRF and allows me to build using these frameworks. It exposes me to AI endpoints, and how we wire up a production AI system.
+I'm building because it teaches me Django + DRF and allows me to build using these frameworks. It exposes me to AI endpoints, and how we wire up a production AI system.
 
 ## Setting Up the Django Project with DRF and Authentication
 

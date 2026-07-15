@@ -1,11 +1,4 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
-
 # Build an AI Content Moderation API
-
-**Project Link:** [View Project](https://nextwork.ai/projects/c07fb476-bd7b-4f0e-a59c-319aa9a3a6d7)
-
-**Author:** huzihunter2782@yahoo.com  
-**Email:** huzihunter2782@yahoo.com
 
 ---
 
@@ -99,4 +92,4 @@ I did this project today to learn how to work with Django and DRF to build and u
 
 ---
 
-*Built with [NextWork](https://nextwork.ai) - [View this project](https://nextwork.ai/projects/c07fb476-bd7b-4f0e-a59c-319aa9a3a6d7)*
+*Built by [Huzaifah Tariq Ahmed](https://github.com/huzaifahtariqahmed)

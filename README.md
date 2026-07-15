@@ -92,4 +92,4 @@ I did this project today to learn how to work with Django and DRF to build and u
 
 ---
 
-*Built by [Huzaifah Tariq Ahmed](https://github.com/huzaifahtariqahmed)
+*Built by [Huzaifah Tariq Ahmed](https://github.com/huzaifahtariqahmed)*
